@@ -1,0 +1,67 @@
+this project is 
+connecting social media to ecommerce cold start product recommendation
+this project have a 2 modules
+
+Admin
+1.Login
+2.View all users
+3.Block Users (admin block that user that user can't access our login)
+4.Add products
+5.View all Products
+6.Graph
+
+
+User
+1.Register
+2.Login
+3.View my profile
+4.view all friends
+5.search friends and friends request also
+6.Chat message
+7.Recommend to friends 
+8.View to k product
+9.view all product
+9.1 buy product
+9.2 view life styles(life styles meaning of you purchase that product any other already purchased all list out of the that side(left side tag)this is not considered of your friends this is generally showing
+10. view other friends recommended products
+11.view all recommended products
+12.Share photos also
+
+this top k product this based on the user clicking based ranking 
+this view all product this un structured views does't follows any orders
+
+you recommend product only for first purchase you and after your recommended tag open incase your are not purchase don't show that tage any products
+
+here your all friends automatically view for the send to tag but here have a only one friends so view only one friend
+here view for all friends recommended products only show 
+this life style already purchase that person name view here this is life style
+
+thank you....................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
